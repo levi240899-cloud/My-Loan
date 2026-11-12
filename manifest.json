@@ -1,0 +1,25 @@
+{
+  "id": "/My-Loan/",
+  "name": "My Loan - Kelola Utang & Cicilan",
+  "short_name": "My Loan",
+  "start_url": "/My-Loan/index.html",
+  "scope": "/My-Loan/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#FDFBF7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
